@@ -10,4 +10,4 @@ The description of each system component can be found in the README file of the 
 
 ## Architecture
 
-![image](https://github.com/user-attachments/assets/b61ed45e-99d0-4a23-929f-135b7e2dbf4b)
+![architecture](assets/architecture.png)
